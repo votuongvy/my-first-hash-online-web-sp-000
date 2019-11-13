@@ -1,6 +1,6 @@
 def my_hash
-  
-  my_hash["name"] = "Vy"
+  your_hash = {}
+  your_hash["name"] = "Vy"
 end
 
 
